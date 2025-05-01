@@ -3,13 +3,15 @@
 # Just another STEM girl with an interest of becoming a data analyst ᥫ᭡.
 👩🏾‍💻 Data Science MSc student at University of Greenwich<br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enhancedbytrace) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tracypius/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:t.pius@icloud.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enhancedbytrace) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tracypius/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tracyyp.02@gmail.com) 
+
 
 # 📈 GitHub Stats:
 ![Profile Views](https://komarev.com/ghpvc/?username=traceswrldd&color=blue)<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=traceswrldd&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=traceswrldd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<img align="right" height="150" src="https://media.giphy.com/media/11cwuBQ4TLa8FO/giphy.gif?cid=ecf05e47oyw927sbcrkaz2zqofym9bdx7njp9077adq2idz5&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 # ⚙️ Languages and Tools:
 
@@ -49,6 +51,11 @@
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=traceswrldd&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+###
 
+<br clear="both">
+
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
