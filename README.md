@@ -51,10 +51,5 @@
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=traceswrldd&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-###
-
-<br clear="both">
-
-###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
