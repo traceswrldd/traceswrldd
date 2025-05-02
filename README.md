@@ -49,8 +49,10 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)<br/>
 
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Profile Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=traceswrldd&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+
+![snake gif](https://github.com/hawra-nawi/hawra-nawi/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
