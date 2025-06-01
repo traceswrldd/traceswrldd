@@ -1,6 +1,6 @@
 ## Hi there 👋🏾 I'm Tracy
 
-# Just another STEM girl with an interest of becoming a data analyst ᥫ᭡.
+# Just another STEM girl with an interest of becoming a data scientist  ᥫ᭡.
 👩🏾‍💻 Data Science MSc student at University of Greenwich<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enhancedbytrace) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tracypius/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tracyyp.02@gmail.com) 
